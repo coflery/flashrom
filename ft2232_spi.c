@@ -83,7 +83,7 @@ const struct dev_entry devs_ft2232spi[] = {
 	{0},
 };
 
-#define DEFAULT_DIVISOR 2
+#define DEFAULT_DIVISOR 4
 
 #define BITMODE_BITBANG_NORMAL	1
 #define BITMODE_BITBANG_SPI	2
